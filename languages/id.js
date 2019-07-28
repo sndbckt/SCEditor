@@ -1,5 +1,5 @@
 /**
- * @author Sandy Irawan (sndbkct@gmail.com)
+ * @author Sandy Irawan (sndbkct@gmail.com) | https://sndbkct.web.id 
  * @license [MIT](http://www.opensource.org/licenses/mit-license.php)
  */
 (function () {
@@ -61,7 +61,7 @@
 		'Enter URL:': 'Masukkan URL',
 		'Enter the YouTube video URL or ID:': 'Masukkan URL video YouTube atau ID',
 		'Insert a Quote': 'Sisipkan kutipan',
-		'Invalid YouTube video': 'Video YouTube yang tidak valid',
+		'Invalid YouTube video': 'Video YouTube tidak sah',
 
 		dateFormat: 'day-month-year'
 	};
